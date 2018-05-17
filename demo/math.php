@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -20,7 +20,7 @@ echo "<br>";
     
 echo 45 + 34 * 45/421 - 45;
 echo "<br>";
-echo (5 + 5) * 10;
+echo 5 + 5 / 10;
     
 ?>
 

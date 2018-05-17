@@ -28,7 +28,12 @@
 		 
 			 */
 
-		
+		$number1 = 10;
+        $number2 = 20;
+        echo $number1 + $number2;
+            
+        $names = array("Mackenzie", "Thomas");
+        $names2 = array("first_name" => 'Mackenzie', 'last_name' => "Thomas");
 
 
 		?>
